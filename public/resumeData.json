@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name":"ApplicationFactory",
+    "occupation":"Full Stack Developer",
+    "description":"I am freelance developer who builds we applications using React, Node, and Javascript",
+    "image":"profilepic.jpg",
+    "bio":"Building web applications as a freelancer through my own company. Current project involves building the front end for a portal for investors using JavaScript, React and styled components and integrating it into the existing website as well as developing the backend written in TypeScript using Node, a TypeORM, as well as Express Server, JWT, and Bcrypt. Also doing Frontend development at a software company that delivers loyalty program solutions to businesses and consumers. Development of user dashboards using React and MobX, Javascript, Typescript, Sass. Rapidly changing business requirements are taken up in scrum meetings and daily stand-ups. Daily usage of JIRA and Bitbucket. 1 to 2 week sprints.",
+    "contactmessage":"Contact details.",
+    "email": "daria.epaneshnikova@gmail.com",
+    "phone": "+31-684-961-757",
+    "address":{
+      "city":"Amsterdam"
+    },
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/dashakrolik",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Skills",
+    "education":[
+      {
+        "school":"Codaisseur",
+        "degree":"Computer Programming",
+        "description": "Graduated the immersive 10 week course on complete stacks composed of JavaScript, jQuery, Node(incl. ES6), TypeScript, Jest, Enzyme, Docker, Express, React, SQL, Redux, HTML5, and CSS3. Project workflow includes code reviews and quality assessments, standard practices such as TDD, basics of product development, UX design, and domain modeling, working together in teams using modern tools like Git, Atom, Github, CI, Trello, and Slack.",
+        "graduated":"2019"
+      },
+      {
+        "school":"Amsterdam University College",
+        "degree":"Bachelor's Degree in Biomedical Sciences",
+        "description": "Neuroscience, Biomedicine, Cognition, Public Health, Molecular Biology",
+        "graduated":"2011-2015"
+      },
+      {
+        "school":"University (first year only)",
+        "degree":"International Relations",
+        "description": "World history, politics, computer science, philosophy",
+        "graduated":"2009-2010"
+      }
+    ],
+    "work":[
+      {
+        "company":"Piggy",
+        "title":"Front End Developer",
+        "years":"June 2019 - Present",
+        "description":"Frontend development at a software company that delivers loyalty program solutions to businesses and consumers. Development of user dashboards using React and MobX, Javascript, Typescript, Sass. Rapidly changing business requirements are taken up in scrum meetings and daily stand-ups. Daily usage of JIRA and Bitbucket. 1 to 2 week sprints."
+      },
+      {
+        "company":"Application Factory",
+        "title":"Full Stack Developer",
+        "years":"May 2019 - Present",
+        "description":"Building web applications as a freelancer through my own company. Current project involves building the front end for a portal for investors using JavaScript, React and styled components and integrating it into the existing website as well as developing the backend written in TypeScript using Node, a TypeORM, as well as Express Server, JWT, and Bcrypt."
+      },
+      {
+        "company":"Levy Associates",
+        "title":"Recruiter",
+        "years":"Oct 2017 - Feb 2019",
+        "description":"360-recruitment of IT specialists, business development."
+      },
+      {
+        "company":"EasyEnglish Training",
+        "title":"Founder",
+        "years":"Feb 2017 - Jan 2019",
+        "description":"Set up a freelance business in the field of English language education. Designed and managed the website (easyenglishtraining.nl) and its SEO. Set up and managed adverstising mediums (Google AdWords, Facebook Ads, Marktplaats Ads). Individual and group English lessons, translations, and job interview training. 130+ satisfied and returning clients."
+      },
+      {
+        "company":"Vrije Universiteit Amsterdam / VU",
+        "title":"Research Intern",
+        "years":"Jul 2015 - Dec 2015",
+        "description":"Research study on thermoregulatory processes in collaboration with the Open Science Framework."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Javascript, ReactJs, Node, HTML5, CSS3",
+        "level":"80%"
+      },
+      {
+        "name":"Git, JIRA, Bitbucket",
+        "level":"80%"
+      },
+      {
+        "name":"Express, Koa",
+        "level":"80%"
+      },
+      {
+        "name":"Redux, MobX, TypeScript",
+        "level":"70%"
+      },
+      {
+        "name":"REST APIs, SQL, Postgres, TypeORM",
+        "level":"70%"
+      },
+      {
+        "name":"Docker, Styled Components",
+        "level":"30%"
+      },
+      {
+        "name":"GraphQL/Apollo, React Native",
+        "level":"20%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"The Idealists",
+        "category":"Application for investors",
+        "image":"theidealists.jpg",
+        "url":"https://www.the-idealists.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
