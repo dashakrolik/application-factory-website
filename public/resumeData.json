@@ -2,7 +2,7 @@
   "main": {
     "name":"ApplicationFactory",
     "occupation":"Full Stack Developer",
-    "description":"I am freelance developer who builds we applications using React, Node, and Javascript",
+    "description":"I am a freelance developer who builds applications using React, Node, and Javascript",
     "image":"profilepic.jpg",
     "bio":"Building web applications as a freelancer through my own company. Current project involves building the front end for a portal for investors using JavaScript, React and styled components and integrating it into the existing website as well as developing the backend written in TypeScript using Node, a TypeORM, as well as Express Server, JWT, and Bcrypt. Also doing Frontend development at a software company that delivers loyalty program solutions to businesses and consumers. Development of user dashboards using React and MobX, Javascript, Typescript, Sass. Rapidly changing business requirements are taken up in scrum meetings and daily stand-ups. Daily usage of JIRA and Bitbucket. 1 to 2 week sprints.",
     "contactmessage":"Contact details.",
@@ -16,6 +16,11 @@
         "name":"github",
         "url":"https://github.com/dashakrolik",
         "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://nl.linkedin.com/in/daria-e-7193a1106",
+        "className":"fa fa-linkedin"
       }
     ]
   },
