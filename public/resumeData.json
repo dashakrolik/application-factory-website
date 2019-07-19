@@ -2,9 +2,9 @@
   "main": {
     "name":"ApplicationFactory",
     "occupation":"Full Stack Developer",
-    "description":"I am a freelance developer who builds applications using React, Node, and Javascript",
+    "description":"Building Single-Page-Applications using React, Node, Javascript, MobX / Redux. Experienced in building REST APIs using PostgreSQL and a TypeORM",
     "image":"profilepic.jpg",
-    "bio":"Building web applications as a freelancer through my own company. Current project involves building the front end for a portal for investors using JavaScript, React and styled components and integrating it into the existing website as well as developing the backend written in TypeScript using Node, a TypeORM, as well as Express Server, JWT, and Bcrypt. Also doing Frontend development at a software company that delivers loyalty program solutions to businesses and consumers. Development of user dashboards using React and MobX, Javascript, Typescript, Sass. Rapidly changing business requirements are taken up in scrum meetings and daily stand-ups. Daily usage of JIRA and Bitbucket. 1 to 2 week sprints.",
+    "bio":"Building web applications as a freelancer through my own company. Current project involves building the front end for an investors' portal using JavaScript, React and styled components, as well as developing the backend written in TypeScript using Node, a TypeORM, Express Server, JWT, and Bcrypt. Also doing Frontend development at a software company that delivers loyalty program solutions to businesses and consumers. Development of user dashboards using React and MobX, Javascript, Typescript, Sass. Rapidly changing business requirements are taken up in scrum meetings and daily stand-ups. Daily usage of JIRA and Bitbucket. 1 to 2 week sprints.",
     "contactmessage":"Contact details.",
     "email": "daria.epaneshnikova@gmail.com",
     "phone": "+31-684-961-757",
@@ -115,7 +115,7 @@
         "title":"The Idealists",
         "category":"Application for investors",
         "image":"theidealists.jpg",
-        "url":"https://www.the-idealists.com/"
+        "url":"https://www.imaengine.io/"
       }
     ]
   },
