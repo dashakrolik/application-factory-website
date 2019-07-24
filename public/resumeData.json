@@ -100,12 +100,16 @@
         "level":"70%"
       },
       {
-        "name":"Docker, Styled Components",
+        "name":"Docker, Styled Components, MySQL",
         "level":"30%"
       },
       {
         "name":"GraphQL/Apollo, React Native",
         "level":"20%"
+      },
+      {
+        "name":"Flask, Python",
+        "level":"10%"
       }
     ]
   },
